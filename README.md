@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🌱 I'm currently learning about [gRPC](https://grpc.io), [k8s](https://kubernetes.io/), & [AWS](https://aws.amazon.com/)
+- 👯 I’m looking to collaborate on really just about any FOSS, but probably focused on projects using [Golang](https://go.dev/)
+- I really am hoping I have the chance to start using [Rust](https://rust-lang.org)
+
+## Statistics
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-werdna&count_private=true&theme=tokyonight&show_icons=true)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-werdna&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <!--
 **andrew-werdna/andrew-werdna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
