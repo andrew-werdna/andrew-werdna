@@ -8,8 +8,7 @@
 
 ### GitLab
 
-[profile](https://gitlab.
-com/ab5717)
+[profile](https://gitlab.com/ab5717)
 
 ## Statistics
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-werdna&count_private=true&theme=tokyonight&show_icons=true)
