@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I'm currently learning about, and implementing solutions using [prometheus](https://prometheus.io/docs/introduction/overview/), [kubernetes](https://kubernetes.io/), [terraform](https://www.terraform.io/), [pulumi](https://github.com/pulumi/pulumi), [nix](https://nixos.org/), [ansible](https://docs.ansible.com/), [AWS](https://aws.amazon.com/), and [Open Telemetry](https://opentelemetry.io/docs/)
-- 👯 I’m looking to collaborate on really just about any FOSS, but probably focused on projects using [Golang](https://go.dev/) or [Rust](https://rust-lang.org)
+- 🌱 I've recently learned about, and implemented solutions using [prometheus](https://prometheus.io/docs/introduction/overview/), [kubernetes](https://kubernetes.io/), [terraform](https://www.terraform.io/), [pulumi](https://github.com/pulumi/pulumi), [nix](https://nixos.org/), [ansible](https://docs.ansible.com/), [AWS](https://aws.amazon.com/), and [Open Telemetry](https://opentelemetry.io/docs/)
+- 👯 I’m looking to collaborate on really just about any FOSS, but probably focused on projects using [Golang](https://go.dev/), [Rust](https://rust-lang.org), or [Nix](https://github.com/NixOS/nix)
 - I have finally started building real proficiency with [Rust](https://rust-lang.org) in some real projects
 - I'm looking for any excuse to continue learning and becoming more proficient with [Rust](https://rust-lang.org), [Haskell](https://www.haskell.org/), [Elixir](https://elixir-lang.org/), [Clojure](https://clojure.org/index), and [Zig](https://ziglang.org)
 - I've become very interesting in, and am avidly pursuing improved understanding, mental models, familiarity, and proficiency with, `system design`, `clean architecture`, `design patterns`, as well as `functional programming paradigms` (such as `parametric polymorphism` and `algebraic structures`!). I am continuing to practice, study, and improve with [TDD](https://www.youtube.com/watch?v=EZ05e7EMOLM). I have accrued quite a video list and book list on these topics and am enjoying reading and soaking them in!
@@ -13,13 +13,17 @@
 I'm an _avid_ believer in FOSS, and contributing as much as I can with open source code, documentation, etc. But I sponsor multiple projects, foundations, and developers.
   - See who I'm sponsoring via [github](https://github.com/andrew-werdna?tab=sponsoring)
   - See who I'm sponsoring via [open collective](https://opencollective.com/altair-cepheus)
-  - I'm also a proud member and supporter of the [linux foundation](https://openprofile.dev/profile/ab7100) as well as the [Electronic Frontier Foundation (EFF)](https://www.eff.org/)
-  - 
+  - See who I'm sponsoring via [patreon](https://www.patreon.com/user/creators?u=19921043)
+  - I also donate to [Khan Academy](https://www.khanacademy.org/profile/andrew101werdna) because I want online learning to be as accessible and available as possible
+  - I'm also a proud member of
+    - the [linux foundation](https://openprofile.dev/profile/ab7100)
+    - the [IEEE](ieee.org)
+  - I'm a proud supporter of the [Electronic Frontier Foundation (EFF)](https://www.eff.org/)
 
 ### Other Links
 
 - [GitLab](https://gitlab.com/ab5717)
-- <a rel="me" href="https://mastodon.social/@andrew_the_seeker">Mastodon</a>
+- [Mastodon](https://mastodon.social/@andrew_the_seeker)
 
 ## Statistics
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-werdna&count_private=true&theme=tokyonight&show_icons=true)
