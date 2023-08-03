@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I've recently learned about, and implemented solutions using [NATS](https://nats.io/), [prometheus](https://prometheus.io/docs/introduction/overview/), [kubernetes](https://kubernetes.io/), [terraform](https://www.terraform.io/), [pulumi](https://github.com/pulumi/pulumi), [nix](https://nixos.org/), [ansible](https://docs.ansible.com/), [AWS](https://aws.amazon.com/), and [Open Telemetry](https://opentelemetry.io/docs/)
+- 🌱 I've recently learned about, and implemented solutions using [NATS](https://nats.io/), [OpenFMB](https://openfmb.openenergysolutions.com/), [OpenDSS](https://www.epri.com/pages/sa/opendss?lang=en), [prometheus](https://prometheus.io/docs/introduction/overview/), [kubernetes](https://kubernetes.io/), [terraform](https://www.terraform.io/), [pulumi](https://github.com/pulumi/pulumi), [nix](https://nixos.org/), [ansible](https://docs.ansible.com/), [AWS](https://aws.amazon.com/), and [Open Telemetry](https://opentelemetry.io/docs/)
 - 👯 I’m looking to collaborate on really just about any FOSS, but probably focused on projects using [Golang](https://go.dev/), [Rust](https://rust-lang.org), or [Nix](https://github.com/NixOS/nix)
 - I have finally started building real proficiency with [Rust](https://rust-lang.org) in some real projects at my current job
 - I'm looking for any excuse to continue learning and becoming more proficient with [Rust](https://rust-lang.org), [Haskell](https://www.haskell.org/), [Elixir](https://elixir-lang.org/), [Clojure](https://clojure.org/index), and [Zig](https://ziglang.org)
@@ -16,8 +16,8 @@ I'm an _avid_ believer in FOSS, and contributing as much as I can with open sour
   - See who I'm sponsoring via [patreon](https://www.patreon.com/user/creators?u=19921043)
   - I also donate to [Khan Academy](https://www.khanacademy.org/profile/andrew101werdna) because I want online learning to be as accessible and available as possible
   - I'm also a proud member of
-    - the [linux foundation](https://openprofile.dev/profile/ab7100)
-    - the [IEEE](ieee.org)
+    - the [Linux Foundation](https://openprofile.dev/profile/ab7100)
+    - the [IEEE](https://ieee-collabratec.ieee.org/app/p/AndrewBrown1006690)
   - I'm a proud supporter of the [Electronic Frontier Foundation (EFF)](https://www.eff.org/)
 
 ### Other Links
