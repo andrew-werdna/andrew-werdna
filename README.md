@@ -18,7 +18,7 @@ I'm an _avid_ believer in FOSS, and contributing as much as I can with open sour
   - See who I'm sponsoring via [github](https://github.com/andrew-werdna?tab=sponsoring)
   - See who I'm sponsoring via [open collective](https://opencollective.com/altair-cepheus)
   - See who I'm sponsoring via [patreon](https://www.patreon.com/user/creators?u=19921043)
-  - I also donate to [Khan Academy](https://www.khanacademy.org/profile/andrew101werdna) because I want online learning to be as accessible and available as possible
+  - I also donate to [Khan Academy](https://www.khanacademy.org/profile/andrew101werdna) _and_ [MIT Opencourseware](https://ocw.mit.edu/) every month, because I want a world-class education to be as accessible and available as possible
   - I'm also a proud member of
     - the [Linux Foundation](https://openprofile.dev/profile/ab7100)
     - the [IEEE](https://ieee-collabratec.ieee.org/app/p/AndrewBrown1006690)
