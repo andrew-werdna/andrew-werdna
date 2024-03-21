@@ -29,7 +29,8 @@ I'm an _avid_ believer in FOSS, and contributing as much as I can with open sour
 - [GitLab](https://gitlab.com/ab5717)
 - [Mastodon](https://mastodon.social/@andrew_the_seeker)
 - [credly](https://www.credly.com/users/andrew-brown.8a762248)
-- My current [work GitHub](https://github.com/abrown7100)
+- My previous [work GitHub](https://github.com/abrown7100)
+- 
 
 ## Statistics
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-werdna&count_private=true&theme=tokyonight&show_icons=true)
