@@ -30,13 +30,15 @@ I'm an _avid_ believer in FOSS, and contributing as much as I can with open sour
 - [Mastodon](https://mastodon.social/@andrew_the_seeker)
 - [credly](https://www.credly.com/users/andrew-brown.8a762248)
 - My previous [work GitHub](https://github.com/abrown7100)
-- 
+- My current [work GitHub](https://github.com/Andrew-Brown3_duke)
 
 ## Statistics
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-werdna&count_private=true&theme=tokyonight&show_icons=true)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-werdna&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+[![An image of @andrewwerdna's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andrewwerdna)](https://holopin.io/@andrewwerdna)
 
 <!--
 **andrew-werdna/andrew-werdna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
