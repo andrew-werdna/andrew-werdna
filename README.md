@@ -9,10 +9,11 @@
 - Creating readable, testable, verifiably correct, and scalable microservices is the zone I have lived in for the past several years. There is always an ongoing pursuit of writing _great_ code and improving my skills around System Administration, and DevOps (most concretely, improving adeptness with `CI/CD` tools).
 - I  have also used [Nix](https://nixos.org/), [Ansible](https://docs.ansible.com/), [Terraform](https://www.terraform.io/), [Pulumi](https://github.com/pulumi/pulumi), and [Open Telemetry](https://opentelemetry.io/docs/) in the last few years, but I've grown a little bit rusty with time. I really enjoyed working with these tools and I'm seeking to refresh myself and derive new insights with these tools ASAP!
 -->
-- 👯 I’m looking to collaborate on really just about any FOSS, but probably focused on projects using [Golang](https://go.dev/), [Rust](https://rust-lang.org), or [Nix](https://github.com/NixOS/nix) **(especially _Golang_ as that has been my primary language of choice/use for the last 5+ years!)**
+- 👯 I’m looking to collaborate on really just about any FOSS, but probably focused on projects using [Golang](https://go.dev/), [Rust](https://rust-lang.org), or [Nix](https://github.com/NixOS/nix) **(especially Golang as that has been my primary language of choice/use for the last 5+ years!)**
 - I am endlessly curious and fascinated by programming languages. I definitely want to continue improving my skills with `Rust`, but I'm looking for any excuse to study, learn, _and_ use [Haskell](https://www.haskell.org/),  [Gleam](https://gleam.run/), 
 [Elixir](https://elixir-lang.org/),  [Elm](https://elm-lang.org/), 
 [Clojure](https://clojure.org/index), [PureScript](https://www.purescript.org/), [OCaml](https://ocaml.org/), [Zig](https://ziglang.org), and/or maybe even an Array-oriented language like [APL](https://www.dyalog.com/mastering-dyalog-apl.htm)!
+- I really want to maintain and improve my mathematical fluency/literacy and develop my knowledge/skills around `formal methods and model checking in software engineering` (i.e. **primarily** [TLA+](https://lamport.azurewebsites.net/tla/tla.html), and [Alloy 6+](https://alloytools.org))
 - Improving the developer experience for myself and those around me is yet another top-tier priority to me. I would _love_ to participate in a developer book club or something like that!
 
 ### Community Involvement
