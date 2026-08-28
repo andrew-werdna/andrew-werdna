@@ -37,9 +37,9 @@ I'm an _avid_ believer in FOSS, and contributing as much as I can with open sour
 - My current [work GitHub](https://github.com/Andrew-Brown3_duke)
 
 ## Statistics
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-werdna&count_private=true&theme=tokyonight&show_icons=true)
+![Andrew's GitHub stats](https://github-readme-stats.shion.dev/api?username=andrew-werdna&count_private=true&theme=tokyonight&show_icons=true)
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-werdna&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=andrew-werdna&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 [![An image of @andrewwerdna's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andrewwerdna)](https://holopin.io/@andrewwerdna)
